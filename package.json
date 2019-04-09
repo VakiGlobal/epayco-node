@@ -1,6 +1,6 @@
 {
-  "name": "epayco-node",
-  "version": "0.0.5",
+  "name": "vaki-epayco-node",
+  "version": "1.1.1-beta01",
   "description": "Epayco API client for node.js",
   "engine": {
     "node": ">=8.14.1"
@@ -13,16 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/epaco/epayco-node.git"
+    "url": "git://github.com/VakiGlobal/epayco-node.git"
   },
   "keywords": [
     "Epayco",
-    "API"
+    "API",
+    "Vaki",
+    "VakiGlobal"
   ],
-  "author": "Epayco <jaguirre@payco.co> (https://epayco.co)",
+  "author": "Juan José Arboleda <juan@vaki.co> (https://vaki.co)",
   "contributors": [
-    "Jonathan Aguirre <jaguirre@payco.co>",
-    "Jeison Caro <jeison.caro@payco.co>"
+    "Juan José Arboleda <juan@vaki.co>"
   ],
   "license": "MIT",
   "dependencies": {
